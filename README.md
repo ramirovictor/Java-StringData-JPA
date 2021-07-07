@@ -21,7 +21,7 @@
     <td>5.2.6</td>
     <td>consultar pom.xml</td>
     <td>9.5*</td>
-    <td>3.9.5</td>
     <td>*</td>
+    <td>10</td>
   </tr>
 </table>
