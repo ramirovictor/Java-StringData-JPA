@@ -1,12 +1,14 @@
 ![213665099_1019281575507133_3145508842294613120_n](https://user-images.githubusercontent.com/37045332/125006780-4de9f980-e035-11eb-8473-2e42c9b3dc6a.jpg)
 
-## Projeto Spring Data e JPA, JUNIT e Maven (postgresql)
-### Projeto didático realizado no curso formação Java Web Full-Stack - JDevTreinamento. 
-> Status: Concluído
+## Spring Data JPA, JUNIT and Maven Project (postgresql)
+### Didactic project used in Java Web Full-Stack training course - JDevTreinamento. 
+> Status: Done
 
-#### Cadastro de Usuários
+#### User registration
 
-## Tecnologias e Ferramentas
+####code in portuguese
+
+## Technologies and Tools
 <table>
   <tr> 
     <td>Java</td>
